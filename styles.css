@@ -1,6 +1,6 @@
 
 body{
-    background-color:wheat;
+    background-color:whitesmoke;
     background-size: cover;
     text-align: center;
     margin-left: auto;
@@ -11,6 +11,7 @@ body{
     overflow: hidden;
     background-color:black;
     width: 100%;
+    margin-top: 0px;
   }
   .header a {
     float: left;
@@ -182,9 +183,7 @@ h2{
   height:75vh;
 } 
 input[type=text], select {
-  width: 100%; */
-  
-  
+  width: 100%; 
 }
   
  input[type=submit] {
@@ -217,5 +216,25 @@ input[type=text], select {
   background-color: white;
   margin-left: 0px;
   margin-right: 0px;
+}
+
+#location{
+  padding: 30px;
+  margin: 30px;
+  font-size: 30px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:black;
+  color: white;
+  text-align: center;
+}
+#col{
+  
+  color: whitesmoke;
+  font-size: 30px;
 }
 
