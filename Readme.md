@@ -1,8 +1,10 @@
 # Delanistudio
+## screenshot
+<img src="./images/ab3.jpg" id="som" width="50%" height="700px">
 
 ## Author
 
-[Eid Abdullahi](https://github.com EidAbdullahi)
+[Eid Abdullahi](https://github.com eidAbdullahi)
 
 ## Description
 
@@ -13,9 +15,9 @@ This project is a web application for pizza delivery that shows details about th
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone (```https://github.com/EidAbdullahi/delanistudio.)
+* git clone (```https://github.com/EidAbdullahi/pizza.)
 
-* cd Delani-Studio
+* cd pizza-
 
 * code . or atom . depending on the text editor of your choise.
 
