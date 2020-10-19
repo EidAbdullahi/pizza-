@@ -249,8 +249,9 @@ input[type=text], select {
 #cc{
   color: aqua;
   background-color: black;
-  width: 25%;
-  text-align: center;
-  padding: 5px;
+  width: 100%;
+  align-items: center;
+  padding-bottom: 30px;
+
 }
 
