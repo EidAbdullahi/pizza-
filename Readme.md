@@ -1,6 +1,6 @@
 # Delanistudio
 ## screenshot
-<img src="./images/ab3.jpg" id="som" width="50%" height="700px">
+<img src="./images/6.jpg"  class="img-fluid " alt="smaple image">
 
 ## Author
 
