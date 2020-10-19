@@ -237,4 +237,11 @@ input[type=text], select {
   color: whitesmoke;
   font-size: 30px;
 }
+#pp{
+  color: red;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-top: 25px;
+}
 
