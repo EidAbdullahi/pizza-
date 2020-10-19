@@ -231,6 +231,7 @@ input[type=text], select {
   background-color:black;
   color: white;
   text-align: center;
+  padding: 12px;
 }
 #col{
   
