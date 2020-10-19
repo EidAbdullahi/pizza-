@@ -197,7 +197,7 @@ input[type=text], select {
 }
  #order{
   margin-top: 2%;
-  background-color: rgba(173, 105, 16, 0.829)
+  background-color: rgb(128, 82, 170);
 }
 #order h1 {
   text-align: center;
